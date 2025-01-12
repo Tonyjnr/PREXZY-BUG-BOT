@@ -2,11 +2,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263717750825"
-global.ownername = "Precious Ayomide👑"
-global.ytname = "YT: Prexzyvilla"
-global.socialm = "GitHub: Prexzybooster"
-global.location = "Nigeria, Osun, Osogbo"
+global.ownernomer = "2349153232038"
+global.ownername = "ᡕᠵ᠊ᡃ່࡚ࠢ࠘⸝່ࠡ᠊߯ᡁࠣ࠘᠊᠊ࠢ࠘气亠===👑"
+global.ytname = "YT: ᡕᠵ᠊ᡃ່࡚ࠢ࠘⸝່ࠡ᠊߯ᡁࠣ࠘᠊᠊ࠢ࠘气亠==="
+global.socialm = "GitHub: ᡕᠵ᠊ᡃ່࡚ࠢ࠘⸝່ࠡ᠊߯ᡁࠣ࠘᠊᠊ࠢ࠘气亠==="
+global.location = "Nigeria, Lagos, Ojo"
 
 global.ownernumber = '263717750825'  //creator number
 global.ownername = 'Precious Ayomide👑' //owner name
@@ -14,7 +14,7 @@ global.botname = 'PREXZY ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'PREXZY👑\n\nContact: +263717750825'
+global.author = 'ᡕᠵ᠊ᡃ່࡚ࠢ࠘⸝່ࠡ᠊߯ᡁࠣ࠘᠊᠊ࠢ࠘气亠===\n\nContact: +2349153232038'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -24,7 +24,7 @@ global.wm = "PREXZYVILLA."
 global.link = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -33,7 +33,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
